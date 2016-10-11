@@ -1,0 +1,29 @@
+{
+  "name": "cordova-achieve-authority-plugin",
+  "version": "0.2.12",
+  "description": "Cordova achieve authority Plugin",
+  "cordova": {
+    "id": "cordova-achieve-authority-plugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noahxinhao/ordova-achieve-authority-plugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "in",
+    "app",
+    "browser"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.1.0"
+    }
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache 2.0"
+}
