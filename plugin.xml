@@ -26,8 +26,8 @@
     <description>Cordova achieve authority Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,achieven,authority</keywords>
-    <repo>https://github.com/noahxinhao/cordova-plugin-achieveAuthority.git</repo>
-    <issue>https://github.com/noahxinhao/cordova-plugin-achieveAuthority/issues</issue>
+    <repo>https://github.com/noahxinhao/cordova-achieve-authority.git</repo>
+    <issue></issue>
 
     <engines>
         <engine name="cordova" version=">=3.1.0"/>

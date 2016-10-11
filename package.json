@@ -1,6 +1,6 @@
 {
   "name": "cordova-achieve-authority-plugin",
-  "version": "0.2.12",
+  "version": "1.0.0",
   "description": "Cordova achieve authority Plugin",
   "cordova": {
     "id": "cordova-achieve-authority-plugin",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/noahxinhao/ordova-achieve-authority-plugin.git"
+    "url": "https://github.com/noahxinhao/cordova-achieve-authority.git"
   },
   "keywords": [
     "cordova",
