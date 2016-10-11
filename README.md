@@ -7,7 +7,7 @@
 ## Installing the plugin
 
 ```
-cordova plugin add cordova-achieve-authority-plugin
+cordova plugin add cordova-achieve-authority
 ```
 ## Quick Example
 在需要跳转到系统权限设置界面的地方调用：

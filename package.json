@@ -1,9 +1,9 @@
 {
-  "name": "cordova-achieve-authority-plugin",
-  "version": "1.0.0",
+  "name": "cordova-achieve-authority",
+  "version": "1.0.1",
   "description": "Cordova achieve authority Plugin",
   "cordova": {
-    "id": "cordova-achieve-authority-plugin",
+    "id": "cordova-achieve-authority",
     "platforms": [
       "ios"
     ]
