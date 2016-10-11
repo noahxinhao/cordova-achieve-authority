@@ -14,9 +14,7 @@
   },
   "keywords": [
     "cordova",
-    "in",
-    "app",
-    "browser"
+    "app"
   ],
   "engines": [
     {
